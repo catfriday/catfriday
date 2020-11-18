@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Catrina
 #### Fullstack Web Developer
-
+![](https://github.com/catfriday/catfriday/blob/main/Simple%20Technology%20LinkedIn%20Banner%20(4).png)
 I am a graduate of Flatiron School and I'm looking to gain real world experience as a developer. 
 
 Skills:  REACT / JS / RUBY / RAILS / HTML / CSS
